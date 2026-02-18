@@ -1,0 +1,10 @@
+dominio\Gasto.class
+negocio\CategoriaService.class
+negocio\GastosService.class
+dominio\Categoria.class
+presentacion\VentanaPrincipal.class
+dominio\ResumenGastos.class
+presentacion\VentanaPrincipal$2.class
+negocio\ResumenService.class
+presentacion\VentanaPrincipal$1.class
+negocio\ControladorNegocio.class
